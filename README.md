@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm abhi kasam
+I'm abhi kasam.
+
+Great things on the way.
 
 <!--
 **abhikasam/abhikasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

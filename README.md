@@ -2,7 +2,9 @@
 
 I'm abhi kasam.
 
-Great things on the way.
+<div style="color:red">
+  Great things on the way.  
+</div>
 
 <!--
 **abhikasam/abhikasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
